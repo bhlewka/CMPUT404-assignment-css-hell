@@ -1,3 +1,14 @@
+Changes
+=======
+
+Instead of making the text pages old timey, I made them look like a console terminal, which I would argue counts as being a visibly appealing color scheme, as we are computer scientists and spend lots of time in the terminal.
+
+I chose to use green text over the white as it appears more retro.
+
+I also used both Courier AND Lucida, as Lucida looks better as body text, while still capturing the terminal feeling.
+
+The only changes I made to the HTML pages was commenting out the included style and referencing my book.css stylesheet.
+
 Assignment: CSS Hell
 ====================
 
